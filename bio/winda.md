@@ -1,4 +1,5 @@
 ##Biodata
 
-*Asal Daerah : Sleman
 *Jurusan  : Fisika  Teknik
+*Fakultas : FTI
+'Universitas : ITB
