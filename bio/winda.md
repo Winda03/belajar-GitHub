@@ -1,4 +1,4 @@
 ##Biodata
 
-'Asal Daerah : Sleman
-'Jurusan  : Fisika  Teknik
+*Asal Daerah : Sleman
+*Jurusan  : Fisika  Teknik
